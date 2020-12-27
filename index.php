@@ -53,6 +53,7 @@
     mysqli_query($conn, $query1);
     if(mysqli_query($conn, $query2)){
       echo "table created";
+      defaultData($conn);
     }
     // mysqli_close($conn);
   }
