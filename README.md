@@ -1,10 +1,11 @@
-#### repo_test
-### Repo Test Technical Online Bootcamp DumbWays Batch 20 Kloter 5
+##### repo_test
 
-###### Nama: Mohammad Zulfikri D.A
+#### Repo Test Technical Online Bootcamp DumbWays Batch 20 Kloter 6
 
-##### Test no.1 @test1.py, Bahasa: python
-##### Test no.2 @test2.py, Bahasa: python
-##### Test no.3 @test3.py, Bahasa: python
-##### Test no.4 Bagian 1 di folder screenshot
-##### Test no.4 Bagian 2 @index.php, Bahasa: html-css-javascript-php-sql
+##### Nama: Mohammad Zulfikri D.A
+
+###### Test no.1 @1.py, Bahasa: python
+###### Test no.2 @2.py, Bahasa: python
+###### Test no.3 @3.py, Bahasa: python
+###### Test no.4 di @folder 4 
+###### Screenshot no.4 @folder 4/screenshot
